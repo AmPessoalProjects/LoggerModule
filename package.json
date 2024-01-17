@@ -1,6 +1,6 @@
 {
   "name": "@marcelogames0/logger-module",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Logger package for my projects",
   "main": "src/index.js",
   "type": "module",
