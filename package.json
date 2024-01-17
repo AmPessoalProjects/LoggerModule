@@ -1,0 +1,30 @@
+{
+  "name": "@marcelogames0/logger-module",
+  "version": "1.0.0",
+  "description": "Logger package for my projects",
+  "main": "src/index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AmPessoalProjects/LoggerModule.git"
+  },
+  "author": "MarceloGames000 <gamesmarcelo274@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/AmPessoalProjects/LoggerModule/issues"
+  },
+  "homepage": "https://github.com/AmPessoalProjects/LoggerModule#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "@MarceloGames000:registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [],
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
