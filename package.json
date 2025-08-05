@@ -23,7 +23,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "chalk": "^5.4.1",
+    "chalk": "^5.5.0",
     "fs": "^0.0.1-security",
     "path": "^0.12.7"
   }
